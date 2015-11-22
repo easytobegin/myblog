@@ -1,6 +1,7 @@
-title: Hello World
+# 欢迎访问 minisheep的个人主页
+title: 第一篇文章
 ---
-Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+欢迎来到[minisheep的个人网站](http://www.easytobegin.com/)! 由于本网站还处于建设阶段,功能还不完善,请大家谅解,最后希望大家能共同学习!
 
 ## Quick Start
 
