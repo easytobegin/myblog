@@ -1,8 +1,8 @@
 ﻿title: Markdown用法说明
-date: 2015-11-24 15:29:35
-categories: Blog
-tags: [Markdown]
-keywords: Markdown
+date: 2015-11-23 15:29:35
+categories: IT
+keywords: Markdown,计算机语言,语法
+tags: [计算机语言,Markdown,语法]
 ----
 ## markdown介绍:
 
@@ -13,6 +13,9 @@ keywords: Markdown
 
 #### #一个可以用来调整字体大小的符号:
 标题能显示出文章的结构。行首插入1-6个 # ，每增加一个 # 表示更深入层次的内容，对应到标题的深度由 1-6 阶。
+
+<!--more-->
+
 
 >例如:
 
@@ -75,3 +78,62 @@ keywords: Markdown
 
 [看原图请点击这里:](http://img1.qunarzz.com/sight/p0/1507/34/99284125616a46680abef2ec0748b7bc.water.jpg_710x360_d3d20b76.jpg)
 ![](http://img1.qunarzz.com/sight/p0/1507/34/99284125616a46680abef2ec0748b7bc.water.jpg_710x360_d3d20b76.jpg)
+
+脚注:
+-----
+    使用这样的占位符号可以将脚注添加到文本中:[^1]. 另外，你可以使用“n”而不是数字的[^n]所以你可以不必担心使用哪个号码。在您的文章的结尾，你可以如下图所示定义匹配的注脚，URL将变成链接:
+	[^1]: This is my first page
+	[^n]: Visit http://easytobegin.com
+	[^n]: A final page
+
+写代码:
+------
+>添加内嵌代码可以使用一对回勾号 `adlert('Hello World')`.对于插入代码, Ghost支持标准的Markdown代码和GitHub Flavored Markdown (GFM)[3]  。标准Markdown基于缩进代码行或者4个空格位:
+
+#### 例子:
+#### 嵌入链接:
+>This is a paragraph that contains a [minisheep的主页](http://easytobegin.com)
+
+#### 列表格式:
+>This paragraph contains a list of items.
+
+* Item 1
+
+* Item 2
+
+* Item three
+
+#### 使用Markdown引用文本:
+
+This paragraph has a quote
+
+> That is pulled out like this from the text my post.
+
+编辑器
+--------
+
+####常用的Markdown编辑器：
+
+* OSX
+* Byword
+* Mou
+* MacDown
+
+* Linux
+* ReText
+* UberWriter
+
+* Windows
+* MarkdownPad
+* Mou
+
+* ios
+* Byword
+
+* 浏览器插件
+* MaDO(Chrome)
+
+* 高级应用
+* Subline Text 2 + MarkdownEditing / 教程
+
+
